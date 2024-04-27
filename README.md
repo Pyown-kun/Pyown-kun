@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pyown-kun
-- 👀 I’m interested in 2D and 3D Modeling
+- 👀 I’m interested in 2D Illustration and 3D Modeling
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
