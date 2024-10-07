@@ -3,7 +3,7 @@
 <!--     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&duration=4000&color=F7CB00&width=500&lines=Aezakmi;+Pyown-kun;" /> -->
 </h1>
 
-<h3 align="center">A Artist also Study About Program</h3>
+<h3 align="center">A Programing Student</h3>
 
 <br/>
 
