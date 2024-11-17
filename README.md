@@ -3,13 +3,17 @@
 <!--     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&duration=4000&color=F7CB00&width=500&lines=Aezakmi;+Pyown-kun;" /> -->
 </h1>
 
+ <br/>
+ <div align="center">
+     <img src="https://c.tenor.com/pqXk4-4nIqIAAAAd/tenor.gif" />
+ </div>
+
 <h3 align="center">A Programing Student</h3>
 
 <br/>
 
 <div align="center">
- 
-
+    
  </div>
  
 <div align="center"> 
@@ -25,11 +29,6 @@
 </div>
 
  <hr/>
-
- <br/>
- <div align="center">
-     <img src="https://c.tenor.com/pqXk4-4nIqIAAAAd/tenor.gif" />
- </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
