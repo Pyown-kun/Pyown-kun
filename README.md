@@ -11,7 +11,19 @@
 <h3 align="center">A Programing Student</h3>
 
 <br/>
-
+        <p>
+            Hi
+            <br />
+            My Name Andrea Ramadhan Cahya Aryana.
+            <br />
+            I’m a Game Developer, but I also lern how to make an Art before I
+            transition into Developer.
+            <br />
+            <br />
+            My Objective Challenge myself
+            in any situasion Environment project for learn, develop and improve
+            my skill and contribute more to the company with my abilites.
+          </p>
 <div align="center">
     
  </div>
